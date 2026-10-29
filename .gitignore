@@ -1,0 +1,13 @@
+.build/
+dist/
+.DS_Store
+.swiftpm/
+.env
+.env.*
+!.env.example
+.codex/
+*.log
+*.dSYM/
+*.p12
+*.p8
+*.mobileprovision
